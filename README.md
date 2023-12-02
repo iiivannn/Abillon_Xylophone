@@ -1,16 +1,21 @@
-# xylophonez
+# Xylophone App
 
-A new Flutter project.
+Enabling Assessment 5<br>
+Submitted to:<br> Sir Jopak<br>
+Submitted by:<br> Ivan Abillon<br>CPE31
+<br><br>
 
-## Getting Started
+# Widget Tree
 
-This project is a starting point for a Flutter application.
+![mainXylo drawio](https://github.com/iiivannn/Abillon_Xylophone/assets/144540815/667d7347-8005-496c-afd4-f458b61fbe82)
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+This is the widget tree for the xylophone app in which it uses the key class to reuse the multiple keys used in the xylophone.
+<br><br><br><br><br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![xyloKey drawio](https://github.com/iiivannn/Abillon_Xylophone/assets/144540815/ee5e04ce-6731-468e-95b6-ff2b3a6c1b55)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This widget tree is for the key class in which expanded widget is returned so that it will expand until the end of screen of the device used.
+<br><br>
+
+All in all, the Expanded key class proves useful in reusing elements that can be used again in the app especially in this app.
